@@ -69,7 +69,6 @@
 				D5107F7F1EA3D12A00ACA4C0 /* ViewController.swift */,
 				D5107F811EA3D12A00ACA4C0 /* Main.storyboard */,
 				D5107F841EA3D12A00ACA4C0 /* Assets.xcassets */,
-				D548562C1EB01C3900ABCFBF /* csv.swift */,
 				D5107F8F1EA3D4D400ACA4C0 /* pokemon.csv */,
 				D5107F861EA3D12A00ACA4C0 /* LaunchScreen.storyboard */,
 				D5107F891EA3D12A00ACA4C0 /* Info.plist */,
@@ -96,6 +95,7 @@
 		D548562E1EB01C3D00ABCFBF /* Util */ = {
 			isa = PBXGroup;
 			children = (
+				D548562C1EB01C3900ABCFBF /* csv.swift */,
 			);
 			name = Util;
 			sourceTree = "<group>";
